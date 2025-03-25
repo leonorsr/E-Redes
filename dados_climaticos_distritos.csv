@@ -1,19 +1,19 @@
-Distrito;Radiação Solar Média (W/m²);Humidade Relativa Média (%)
-Santarém;359.46;88.4
-Braga;345.52;75.27
-Bragança;363.56;95.18
-Castelo Branco;395.0;75.0
-Coimbra;379.1;78.35
-Lisboa;427.45;72.41
-Portalegre;394.19;76.38
-Porto;360.39;73.51
-Guarda;391.81;73.9
-Leiria;380.54;80.85
-Viana do Castelo;354.08;76.07
-Vila Real;369.23;67.46
-Viseu;364.19;75.45
-Évora;400.18;79.64
-Faro;435.18;77.54
-Aveiro;381.54;81.6
-Beja;421.21;78.12
-Setúbal;428.27;77.19
+Distrito;Radiação Solar Média (W/m²);Humidade Relativa Média (%);Índice UV Médio
+Santarém;359.46;88.4;1.89
+Braga;345.49;75.27;1.92
+Bragança;363.56;95.18;1.98
+Castelo Branco;395.0;75.0;2.13
+Coimbra;379.1;78.35;2.09
+Lisboa;427.45;72.41;2.37
+Portalegre;394.19;76.38;2.1
+Porto;360.36;73.51;2.01
+Guarda;391.81;73.9;2.12
+Leiria;380.54;80.85;2.11
+Viana do Castelo;354.08;76.07;1.97
+Vila Real;369.23;67.46;2.05
+Viseu;364.19;75.45;2.03
+Évora;400.18;79.64;2.19
+Faro;435.18;77.54;2.37
+Aveiro;381.47;81.6;2.12
+Beja;421.21;78.12;2.31
+Setúbal;428.27;77.19;2.38
